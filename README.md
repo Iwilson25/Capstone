@@ -80,8 +80,13 @@ Fig 1.4
 As there were hundreds of source/publisher within the data set it was decided to focus on the **Top 10 source/publisher** in terms of the number of contributed source. It is no surprised that the Top 10 listed source/publisher are big name news publisher such as Bloomberg, New York Times and CNN. 
 
 
-![](pictures/Screenshot%202020-04-16%20at%205.18.51%20PM.png)
-Fig1.5 Legend of Fig1.6
+![](pictures/Screenshot%202020-04-16%20at%204.14.11%20PM.png)
+Fig 1.5
+
+Fig 1.5 shows the Avg.share among the Top 10 source/publisher groupby the four main topics within the data set. Beside the difference in the Avg.share among the three social media platform we can notice the followers characteristics among these platform. 
+- **User of Facebook** tend to be more interested in the topic related to Obama as compared to other main topics
+- **User of GooglePlus** are more incline towards topic related to Microsoft 
+- **User of LinkedIn** falls within two main topic of Microsoft and Economy which is logical since LinkedIn is known for   being a professional business oriented social media platform.
 
 
 
