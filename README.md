@@ -69,6 +69,20 @@ Fig 1.2
 
 Using the graphical capability of **Tableau** the remaining EDA were done using the Tableau platform as shown in the figures below:
 
+![](pictures/Topic%20popularity%20across%20each%20social%20media%20platform.png)
+Fig 1.3
+
+From Fig 1.3, Facebook has the highest No. of shares among all the other social media platform therefore, for modelling Facebook would be the feature used for creating dummy variables as it is one of the most popular social media platform used for sharing of news article.
+
+![](pictures/Screenshot%202020-04-16%20at%203.59.43%20PM.png)
+Fig 1.4
+
+As there were hundreds of source/publisher within the data set it was decided to focus on the **Top 10 source/publisher** in terms of the number of contributed source. It is no surprised that the Top 10 listed source/publisher are big name news publisher such as Bloomberg, New York Times and CNN. 
+
+
+![](pictures/Screenshot%202020-04-16%20at%205.18.51%20PM.png)
+Fig1.5 Legend of Fig1.6
+
 
 
 
