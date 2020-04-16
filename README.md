@@ -55,5 +55,20 @@ As the data was extracted directly from UCI Machine Learning Repository and New 
 
 A glimpse of some of the EDA that were done based on the word count of headline in the text body. **Unigram**, **Bigrams** and **Trigrams** were evaluated to get a better understanding of the headline and title features. 
 
-# ![EDA 1]
-(https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67)
+![](pictures/Screenshot%202020-04-13%20at%208.40.13%20PM.png)
+Fig 1.1
+
+**Fig 1.1** clearly shows the Top 20 words word count of a bigram and it is accurate in showing the most popular pair of words from with the text body of the headline. 
+
+![](pictures/Screenshot%202020-04-16%20at%206.41.44%20PM.png)
+Fig 1.2
+
+**Fig 1.2** is a venn diagram showing the common words used between the headlines and titles as well as their individual difference. 
+
+### Tableau Visualization
+
+Using the graphical capability of **Tableau** the remaining EDA were done using the Tableau platform as shown in the figures below:
+
+
+
+
