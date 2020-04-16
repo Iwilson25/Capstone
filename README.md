@@ -88,6 +88,12 @@ Fig 1.5 shows the Avg.share among the Top 10 source/publisher groupby the four m
 - **User of GooglePlus** are more incline towards topic related to Microsoft 
 - **User of LinkedIn** falls within two main topic of Microsoft and Economy which is logical since LinkedIn is known for   being a professional business oriented social media platform.
 
+![](pictures/Screenshot%202020-04-16%20at%205.15.41%20PM.png)
+Fig 1.6
+
+Beside analysing on news popularity on their respective social media platform, analysing on the sentiment of Title across the Top 10 source/publisher were done as well. From Fig 1.6, ABC News has the most positive avg. sentiment while The Guardian has the most negative avg.sentiment. In the notebook more EDA would be done to see if sentiment affects the popularity of the news. 
+
+### t-SNE
 
 
 
