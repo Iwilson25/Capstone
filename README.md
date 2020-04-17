@@ -18,7 +18,7 @@ The model would be useful to gain an understanding of readers preference based o
 - [Data Cleaning and Exploratory Data Analysis (EDA)](#Data-Cleaning-and-Exploratory-Data-Analysis-(EDA))
 - [Modelling](#Modelling)
 - [Model Evaluation](#Model-Evaluation)
-- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendation)
 
 ## Data Extraction
 
