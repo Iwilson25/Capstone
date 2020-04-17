@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Analyzing news headline using **Natual Language Processing (NLP)** from various notable publishers and understanding of the underlying sentiment of headlines and predicting it's popularity from social media.
+Analyzing news headline using **Natural Language Processing (NLP)** from various notable publishers and understanding of the underlying sentiment of headlines and predicting it's popularity from social media.
 
 ## Executive Summary
 
@@ -10,7 +10,7 @@ The United States itself has numerous news publishers such as **"New York Times"
 
 Thus, the purpose of my model is to gather the **number of shares** on respective publishers social media platform and categorise them accordingly to their popularity. And the model would **predict the popularity** of the headline based on features such as **sentiment** and **vector positioning of words**.
 
-The model would be useful to gain an understanding of readers preference based on article sentiment and keywords and provide insight for writers and editors on the ideal format of their articles.
+The model would be useful for **marketing strategy** by gaining an understanding of readers preference based on article sentiment and keywords and provide insight for writers and editors on the ideal format of their articles. And provide additional assistance in putting the right title into the most effective social media platform so as to get the best readers reception by **targetting the correct target audience**. 
 
 ## Contents
 
@@ -165,7 +165,9 @@ In conclusion, SVM GridSearch (TFIDF) had a better accuracy result as compared t
 
 As for the TFIDF method, it transforms individual words into frequencies of occurence from within the text and applies weightage to it. The accuracy did improve when TFIDF method was used, it might be due to the weightage that was applied into the model that helps to classify the important and unimportant words from within the text.
 
-Hence, there are ways to improve on the model using Word2Vec which are also the limitation faced while running the model. The full word vector dimensions were not used in this project due to computation limitation from hardware. Thus, if given better hardware or using the AWS services more data could be use to run the Word2Vec model instead of reducing the data. 
+In the marketing aspect, lots of informations can be obtained from the EDA. Through observation of Fig 1.5, we can understand the reader demographics in each social media platform and do an AB testing on the article title by understanding what makes an article title so shareable or attractive to readers on different platforms. The comparison in key words used between popular titles in different social media platform can be use as reference for the test. 
+
+There are ways to improve on the model using Word2Vec which are also the limitation faced while running the model. The full word vector dimensions were not used in this project due to computation limitation from hardware. Therefore, using progressive loading method we can get a better overall accuracy by implementating platform like Spark which is highly efficient in running large data by distributing dataset into different nodes and computation are done on individual nodes. Or implementating cloud services by running the dataset on remote servers which have better hardware specification and supported functions library.  
 
 
 
