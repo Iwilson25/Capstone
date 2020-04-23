@@ -10,7 +10,7 @@ The United States itself has numerous news publishers such as **"New York Times"
 
 Thus, the purpose of my model is to gather the **number of shares** on respective publishers social media platform and categorise them accordingly to their popularity. And the model would **predict the popularity** of the headline based on features such as **sentiment** and **vector positioning of words**.
 
-The model would be useful for **marketing strategy** by gaining an understanding of readers preference based on article sentiment and keywords and provide insight for writers and editors on the ideal format of their articles. And provide additional assistance in putting the right title into the most effective social media platform so as to get the best readers reception by **targetting the correct audience**. 
+The model would be useful for **marketing strategy** by gaining insights on readers preference based on the article sentiment and keywords and provide insights for writers and editors on the ideal format of their articles. And provide additional assistance in putting the right title into the most effective social media platform so as to get the best readers reception by **targetting the correct audience**. 
 
 ## Contents
 
